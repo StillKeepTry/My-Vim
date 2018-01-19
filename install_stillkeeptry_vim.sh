@@ -1,6 +1,6 @@
 mkdir -p ~/.vim ~/.vim/bundle
-cp ./autoload ~/.vim/
-cp ./colors ~/.vim/
+cp -r ./autoload ~/.vim/
+cp -r ./colors ~/.vim/
 cp .vimrc ~/.vimrc
 
 cd ~/.vim/bundle
