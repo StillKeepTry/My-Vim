@@ -1,5 +1,6 @@
 # StillKeepTry Vim configuration
 ## My Vim Configuration
+I have been a deep user of vim since 2011. I have clean up a sort of vim configuration based on my habit and shared it for every one.
 
 ## Quick installation
 This vim configuration is very simple to install. You can deploy this configuration by running the following script:
