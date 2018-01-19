@@ -23,3 +23,6 @@ This vim configuration is very simple to install. You can deploy this configurat
 * [monokai](https://github.com/lsdr/monokai) (**Default**)
 
 ## Screenshots
+
+## Other
+If you like it, please give me a star. :)
