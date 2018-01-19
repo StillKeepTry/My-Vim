@@ -19,4 +19,7 @@ This vim configuration is very simple to install. You can deploy this configurat
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
+# Color scheme
+* [monokai](https://github.com/lsdr/monokai) (**Default**)
+
 ## Screenshots
