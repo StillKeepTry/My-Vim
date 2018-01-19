@@ -9,3 +9,14 @@ This vim configuration is very simple to install. You can deploy this configurat
     bash install_stillkeeptry_vim.sh
 
 ## Included Plugins
+
+* [command-t](https://github.com/wincent/command-t)
+* [nerdtree](https://github.com/scrooloose/nerdtree)
+* [rainbow_parentheses](https://github.com/kien/rainbow_parentheses.vim)
+* [sparkup](https://github.com/rstacruz/sparkup)
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)
+* [vim-powerline](https://github.com/Lokaltog/vim-powerline)
+* [Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+
+## Screenshots
