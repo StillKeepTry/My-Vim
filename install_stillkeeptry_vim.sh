@@ -18,4 +18,4 @@ vim +PluginInstall +qall
 
 cd YouCompleteMe/
 git submodule update --init --recursive
-./install.py 
+./install.py --clang-completer
