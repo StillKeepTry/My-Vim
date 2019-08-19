@@ -41,5 +41,6 @@ au Syntax * RainbowParenthesesLoadRound
 au Syntax * RainbowParenthesesLoadSquare
 au Syntax * RainbowParenthesesLoadBraces
 
+set pastetoggle=<F12>
 set cursorline
 set cursorcolumn
