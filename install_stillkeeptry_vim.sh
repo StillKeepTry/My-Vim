@@ -16,6 +16,6 @@ git clone https://github.com/Valloric/YouCompleteMe.git
 
 vim +PluginInstall +qall
 
-cd YouCompleteMe/
+cd YouCompleteMe/ && git checkout 4ca5b45
 git submodule update --init --recursive
 ./install.py --clang-completer
